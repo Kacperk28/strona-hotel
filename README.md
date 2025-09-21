@@ -1,2 +1,2 @@
 # strona-hotel
-Strona przykładowego hotelu
+Przykładowa strona hotelu
